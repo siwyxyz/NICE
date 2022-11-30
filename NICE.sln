@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NICE", "NICE\NICE.csproj", "{EE711DAE-3075-4485-976F-09BF21BD2D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE711DAE-3075-4485-976F-09BF21BD2D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE711DAE-3075-4485-976F-09BF21BD2D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE711DAE-3075-4485-976F-09BF21BD2D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE711DAE-3075-4485-976F-09BF21BD2D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F371634-71C4-42EE-BE8D-BF3742F76642}
+	EndGlobalSection
+EndGlobal
